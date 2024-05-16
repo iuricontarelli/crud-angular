@@ -12,3 +12,12 @@ mat-card {
   width: 100%;
   min-width: 200px;
 }
+
+.buttons {
+  display: flex;
+  justify-content: center;
+}
+
+.button-cancel {
+  margin-left: 20px;
+}
