@@ -16,7 +16,8 @@ ng serve
 
 
 ## API do Projeto (EM CONSTRUCAO)
-GitHub: [api-em-contrucao](https://github.com/iuricontarelli)
+
+GitHub: [crud-spring](https://github.com/iuricontarelli/crud-spring)
 
 
 ## Imagem do projeto (EM CONSTRUCAO)
